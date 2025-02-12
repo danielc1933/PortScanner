@@ -5,6 +5,7 @@ A very basic port scanner built for personal scanning. This script helps you ide
 Features
 
 Scans for open TCP and UDP ports.
+![Termius_3ymwwMKT2y](https://github.com/user-attachments/assets/8ff9b9ce-eb0d-4635-8a5d-7e349699d40d)
 
 Supports service detection and banner grabbing.
 
@@ -73,4 +74,4 @@ License
 
 This project is licensed under the MIT License.
 
-Enjoy scanning responsibly! 🚀
+Hack The Planet
